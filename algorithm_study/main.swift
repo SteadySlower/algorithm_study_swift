@@ -7,5 +7,14 @@
 
 import Foundation
 
-print("Hello, World!")
+// 백준 2588 곱셈
 
+let nString = readLine()!
+let mString = readLine()!
+
+let n = Int(nString)!
+let m = Int(mString)!
+
+let mArray = Array(arrayLiteral: mString).map { Int($0)! }
+
+print(mArray)
