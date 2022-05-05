@@ -7,14 +7,14 @@
 
 import Foundation
 
-// 백준 2588 곱셈
 
-let nString = readLine()!
-let mString = readLine()!
+// 백준 10950 A + B - 3
 
-let n = Int(nString)!
-let m = Int(mString)!
+let T = Int(readLine()!)!
 
-let mArray = Array(arrayLiteral: mString).map { Int($0)! }
-
-print(mArray)
+for _ in 0..<T {
+    let inputs = readLine()!.components(separatedBy: " ").map { Int($0)! }
+    let a = inputs[0]
+    let b = inputs[1]
+    print(a + b)
+}
