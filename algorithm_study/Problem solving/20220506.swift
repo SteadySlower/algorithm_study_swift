@@ -5,7 +5,6 @@
 //  Created by Jong Won Moon on 2022/05/06.
 //
 
-import Foundation
 
 //// 백준 10950 A + B - 3
 //

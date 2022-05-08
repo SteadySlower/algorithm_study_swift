@@ -5,8 +5,6 @@
 //  Created by JW Moon on 2022/05/04.
 //
 
-import Foundation
-
 //// 백준 2588 곱셈
 //
 //let nString = readLine()!

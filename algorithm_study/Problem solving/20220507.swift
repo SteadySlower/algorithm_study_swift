@@ -5,7 +5,6 @@
 //  Created by JW Moon on 2022/05/07.
 //
 
-import Foundation
 
 //// https://www.acmicpc.net/problem/1110
 //
