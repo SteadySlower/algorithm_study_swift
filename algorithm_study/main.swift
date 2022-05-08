@@ -5,35 +5,13 @@
 //  Created by JW Moon on 2022/05/02.
 //
 
-//let A = Int(readLine()!)!
-//let B = Int(readLine()!)!
-//let C = Int(readLine()!)!
-//
-//let resultArray = String(A * B * C).map { Int(String($0))! }
-//
-//var countArray = [Int](repeating: 0, count: 10)
-//
-//for num in resultArray {
-//    countArray[num] += 1
-//}
-//
-//for num in countArray {
-//    print(num)
-//}
+let N = Double(readLine()!)!
 
-var result = 1
+let scores = readLine()!.split(separator: " ").map { Double(String($0))! }
 
-(0..<3).forEach { _ in
-    result *= Int(readLine()!)!
-}
+let max = scores.max()!
 
-var countArray = [Int](repeating: 0, count: 10)
+let result = ((scores.reduce(0, +) / max) * 100.0) / N
 
-while result > 0 {
-    let digit = result % 10
-    countArray[digit] += 1
-    result /= 10
-}
-
-countArray.forEach{ print($0) }
+print(result)
 
