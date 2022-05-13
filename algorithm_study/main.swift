@@ -6,25 +6,21 @@
 //
 
 /*
- 0 ~ 1 👉 처음의 범위를 0부터 시작으로 잡으면 이해가 쉽다.
- 2 ~ 7 = + 6
- 8 ~ 19 = + 12
- 20 ~ 37 = + 18
+ 하루 밤에 A - B 미터만큼 올라간다.
+ 중요한 것은 마지막 하루를 어떻게 처리하느냐는 것이다!
  */
 
-let n = Int(readLine()!)!
+let input = readLine()!.split(separator: " ").map { Int(String($0))! }
 
-var min = 0
-var max = 1
-var distance = 1
+let A = input[0]
+let B = input[1]
+let V = input[2]
 
-while true {
-    if n >= min && n <= max {
-        print(distance)
-        break
-    } else {
-        min = max + 1 //👉 다음 단계의 시작은 전 단계 max의 + 1
-        max += 6 * distance // 👉 다음 단계의 마지막은 전 단계의 마지막 + 6 * distance (한 단계 확장할 수록 육각형의 각 변이 1만큼 길어짐)
-        distance += 1
-    }
+var days = (V - A) / (A - B)
+let rem = (V - A) % (A - B)
+
+if rem == 0 {
+    print(days + 1)
+} else {
+    print(days + 2)
 }
