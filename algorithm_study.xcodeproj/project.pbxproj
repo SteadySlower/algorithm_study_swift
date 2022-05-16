@@ -19,6 +19,7 @@
 		5AAD6EEA282C91320000AF05 /* 20220512.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AAD6EE9282C91320000AF05 /* 20220512.swift */; };
 		5AB4099B282B2DBA00926816 /* 20220511.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AB4099A282B2DBA00926816 /* 20220511.swift */; };
 		5AB697CA28288F76003268C6 /* 20220509.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AB697C928288F76003268C6 /* 20220509.swift */; };
+		5AB988052831C4800052DBB8 /* 20220515.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AB988042831C4800052DBB8 /* 20220515.swift */; };
 		5ABD62E32829E9E70021BF3E /* 20220510.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ABD62E22829E9E70021BF3E /* 20220510.swift */; };
 /* End PBXBuildFile section */
 
@@ -48,6 +49,7 @@
 		5AAD6EE9282C91320000AF05 /* 20220512.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220512.swift; sourceTree = "<group>"; };
 		5AB4099A282B2DBA00926816 /* 20220511.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220511.swift; sourceTree = "<group>"; };
 		5AB697C928288F76003268C6 /* 20220509.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220509.swift; sourceTree = "<group>"; };
+		5AB988042831C4800052DBB8 /* 20220515.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220515.swift; sourceTree = "<group>"; };
 		5ABD62E22829E9E70021BF3E /* 20220510.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220510.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -102,6 +104,7 @@
 				5AAD6EE9282C91320000AF05 /* 20220512.swift */,
 				5A2CFC03282DCE3D0086EA17 /* 20220513.swift */,
 				06D0AC11282FECC300189EFC /* 20220514.swift */,
+				5AB988042831C4800052DBB8 /* 20220515.swift */,
 			);
 			path = "Problem solving";
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 				5A2CFC04282DCE3D0086EA17 /* 20220513.swift in Sources */,
 				06D0AC042820978200189EFC /* 20220502.swift in Sources */,
 				5AB4099B282B2DBA00926816 /* 20220511.swift in Sources */,
+				5AB988052831C4800052DBB8 /* 20220515.swift in Sources */,
 				06D0ABFC281F564600189EFC /* main.swift in Sources */,
 				06D0AC062820EA4500189EFC /* 20220503.swift in Sources */,
 				5AB697CA28288F76003268C6 /* 20220509.swift in Sources */,
