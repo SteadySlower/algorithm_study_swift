@@ -5,18 +5,23 @@
 //  Created by JW Moon on 2022/05/02.
 //
 
-let N = Int(readLine()!)!
-var array = Array(repeating: 0, count: 10001)
+// 체스판 다시 칠하기
 
-(0..<N).forEach { _ in
-    let i = Int(readLine()!)!
-    array[i] += 1
+extension Character {
+    func changeColor() -> Character {
+        return self == "B" ? "W" : "B"
+    }
 }
 
-for i in 0..<10001 {
-    if array[i] > 0 {
-        for _ in 0..<array[i] {
-            print(i)
+func countRepaint(board: Array<Array<Character>>) -> Int {
+    var result1 = 0
+    var result2 = 
+    for i in 0..<8 {
+        for j in 0..<8 {
+            if (i + j) % 2 == 0 {
+                
+            }
         }
     }
+    
 }
