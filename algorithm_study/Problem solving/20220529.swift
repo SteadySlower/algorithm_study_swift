@@ -8,7 +8,6 @@
 //let input = readLine()!.split(separator: " ").map { Int(String($0))! }
 //let N = input[0], S = input[1]
 //let nums = readLine()!.split(separator: " ").map { Int(String($0))! }
-//var visited = Array(repeating: false, count: 20)
 //
 //var count = 0
 //var sum = 0
@@ -20,16 +19,12 @@
 //    if sum == S && length > 0 {
 //        count += 1
 //    }
-//    
+//
 //    // 겹치면 안되니까 now부터 반복문을 돌린다.
 //    for i in now..<N {
-//        if !visited[i] { //👉 아직 방문을 하지 않은 숫자라면
-//            visited[i] = true //👉 방문 체크를 하고
-//            sum += nums[i] //👉 합에 더한다.
-//            dfs(length: length + 1, now: i)
-//            visited[i] = false
-//            sum -= nums[i]
-//        }
+//        sum += nums[i] //👉 합에 더한다.
+//        dfs(length: length + 1, now: i + 1)
+//        sum -= nums[i]
 //    }
 //}
 //
