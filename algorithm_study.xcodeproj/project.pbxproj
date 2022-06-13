@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		064A7AD92856B7870044EDEE /* 20220613.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064A7AD82856B7870044EDEE /* 20220613.swift */; };
 		066FC4502836419B0046DA95 /* 20220519.swift in Sources */ = {isa = PBXBuildFile; fileRef = 066FC44F2836419B0046DA95 /* 20220519.swift */; };
 		0685CF5E284C6523002F770D /* 20220605.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0685CF5D284C6523002F770D /* 20220605.swift */; };
 		0685CF60284DD543002F770D /* 20220606.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0685CF5F284DD543002F770D /* 20220606.swift */; };
@@ -61,6 +62,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		064A7AD82856B7870044EDEE /* 20220613.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220613.swift; sourceTree = "<group>"; };
 		066FC44F2836419B0046DA95 /* 20220519.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220519.swift; sourceTree = "<group>"; };
 		0685CF5D284C6523002F770D /* 20220605.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220605.swift; sourceTree = "<group>"; };
 		0685CF5F284DD543002F770D /* 20220606.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220606.swift; sourceTree = "<group>"; };
@@ -115,33 +117,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		06D0ABEF281F564600189EFC = {
-			isa = PBXGroup;
-			children = (
-				0685CF6B28558885002F770D /* README.md */,
-				06D0ABFA281F564600189EFC /* algorithm_study */,
-				06D0ABF9281F564600189EFC /* Products */,
-			);
-			sourceTree = "<group>";
-		};
-		06D0ABF9281F564600189EFC /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				06D0ABF8281F564600189EFC /* algorithm_study */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		06D0ABFA281F564600189EFC /* algorithm_study */ = {
-			isa = PBXGroup;
-			children = (
-				06D0ABFB281F564600189EFC /* main.swift */,
-				06D0AC022820975300189EFC /* Problem solving */,
-			);
-			path = algorithm_study;
-			sourceTree = "<group>";
-		};
-		06D0AC022820975300189EFC /* Problem solving */ = {
+		0685CF6E2856B741002F770D /* 202205 */ = {
 			isa = PBXGroup;
 			children = (
 				06D0AC032820978200189EFC /* 20220502.swift */,
@@ -171,6 +147,40 @@
 				06A32AA3284271AC0044ED0C /* 20220529.swift */,
 				06A32AA528443BC20044ED0C /* 20220530.swift */,
 				06A32AA7284589110044ED0C /* 20220531.swift */,
+			);
+			path = 202205;
+			sourceTree = "<group>";
+		};
+		06D0ABEF281F564600189EFC = {
+			isa = PBXGroup;
+			children = (
+				0685CF6B28558885002F770D /* README.md */,
+				06D0ABFA281F564600189EFC /* algorithm_study */,
+				06D0ABF9281F564600189EFC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		06D0ABF9281F564600189EFC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				06D0ABF8281F564600189EFC /* algorithm_study */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		06D0ABFA281F564600189EFC /* algorithm_study */ = {
+			isa = PBXGroup;
+			children = (
+				06D0ABFB281F564600189EFC /* main.swift */,
+				06D0AC022820975300189EFC /* Problem solving */,
+			);
+			path = algorithm_study;
+			sourceTree = "<group>";
+		};
+		06D0AC022820975300189EFC /* Problem solving */ = {
+			isa = PBXGroup;
+			children = (
+				0685CF6E2856B741002F770D /* 202205 */,
 				06A32AA928479B010044ED0C /* 20220601.swift */,
 				06A32AAB28482E9C0044ED0C /* 20220602.swift */,
 				06A32AAD28497CAE0044ED0C /* 20220603.swift */,
@@ -182,6 +192,7 @@
 				0685CF672852C2F0002F770D /* 20220610.swift */,
 				0685CF6928546B5F002F770D /* 20220611.swift */,
 				0685CF6C28559BC6002F770D /* 20220612.swift */,
+				064A7AD82856B7870044EDEE /* 20220613.swift */,
 			);
 			path = "Problem solving";
 			sourceTree = "<group>";
@@ -277,6 +288,7 @@
 				5AB697CA28288F76003268C6 /* 20220509.swift in Sources */,
 				06A32A9E283EFE390044ED0C /* 20220526.swift in Sources */,
 				5AB647DE28370C340086DB14 /* 20220520.swift in Sources */,
+				064A7AD92856B7870044EDEE /* 20220613.swift in Sources */,
 				0685CF5E284C6523002F770D /* 20220605.swift in Sources */,
 				06A32AA02841A3F10044ED0C /* 20220527.swift in Sources */,
 				06D0AC0A2826AB7E00189EFC /* 20220507.swift in Sources */,
