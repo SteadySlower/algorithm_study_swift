@@ -44,7 +44,9 @@
 9일 : [스택 수열](https://www.acmicpc.net/problem/1874)  
 10일 : [듣보잡](https://www.acmicpc.net/problem/1764), [쇠막대기](https://www.acmicpc.net/problem/10799)  
 11일 : [오큰수](https://www.acmicpc.net/problem/17298)  
-12일 : [외계인의 기타 연주](https://www.acmicpc.net/problem/2841). 
-
+12일 : [외계인의 기타 연주](https://www.acmicpc.net/problem/2841).
+### 3주 
+13일 : [프린터 큐](https://www.acmicpc.net/problem/1966). 
+14일 : [연결 요소의 갯수](https://www.acmicpc.net/problem/11724), 
 
 
