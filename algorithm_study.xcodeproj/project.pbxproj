@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		064A7AD92856B7870044EDEE /* 20220613.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064A7AD82856B7870044EDEE /* 20220613.swift */; };
+		064A7ADB285959650044EDEE /* 20220614.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064A7ADA285959650044EDEE /* 20220614.swift */; };
+		064A7ADD285959710044EDEE /* 20220615.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064A7ADC285959710044EDEE /* 20220615.swift */; };
 		066FC4502836419B0046DA95 /* 20220519.swift in Sources */ = {isa = PBXBuildFile; fileRef = 066FC44F2836419B0046DA95 /* 20220519.swift */; };
 		0685CF5E284C6523002F770D /* 20220605.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0685CF5D284C6523002F770D /* 20220605.swift */; };
 		0685CF60284DD543002F770D /* 20220606.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0685CF5F284DD543002F770D /* 20220606.swift */; };
@@ -63,6 +65,8 @@
 
 /* Begin PBXFileReference section */
 		064A7AD82856B7870044EDEE /* 20220613.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220613.swift; sourceTree = "<group>"; };
+		064A7ADA285959650044EDEE /* 20220614.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220614.swift; sourceTree = "<group>"; };
+		064A7ADC285959710044EDEE /* 20220615.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220615.swift; sourceTree = "<group>"; };
 		066FC44F2836419B0046DA95 /* 20220519.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220519.swift; sourceTree = "<group>"; };
 		0685CF5D284C6523002F770D /* 20220605.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220605.swift; sourceTree = "<group>"; };
 		0685CF5F284DD543002F770D /* 20220606.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220606.swift; sourceTree = "<group>"; };
@@ -193,6 +197,8 @@
 				0685CF6928546B5F002F770D /* 20220611.swift */,
 				0685CF6C28559BC6002F770D /* 20220612.swift */,
 				064A7AD82856B7870044EDEE /* 20220613.swift */,
+				064A7ADA285959650044EDEE /* 20220614.swift */,
+				064A7ADC285959710044EDEE /* 20220615.swift */,
 			);
 			path = "Problem solving";
 			sourceTree = "<group>";
@@ -268,11 +274,13 @@
 				06A32AA228426A140044ED0C /* 20220528.swift in Sources */,
 				5A2CFC04282DCE3D0086EA17 /* 20220513.swift in Sources */,
 				06D0AC042820978200189EFC /* 20220502.swift in Sources */,
+				064A7ADB285959650044EDEE /* 20220614.swift in Sources */,
 				5AB4099B282B2DBA00926816 /* 20220511.swift in Sources */,
 				0685CF62284EE20F002F770D /* 20220607.swift in Sources */,
 				5AB988052831C4800052DBB8 /* 20220515.swift in Sources */,
 				06A32AA628443BC20044ED0C /* 20220530.swift in Sources */,
 				066FC4502836419B0046DA95 /* 20220519.swift in Sources */,
+				064A7ADD285959710044EDEE /* 20220615.swift in Sources */,
 				06A32AAA28479B010044ED0C /* 20220601.swift in Sources */,
 				06A32AA8284589110044ED0C /* 20220531.swift in Sources */,
 				06D0ABFC281F564600189EFC /* main.swift in Sources */,
