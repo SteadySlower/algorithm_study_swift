@@ -35,18 +35,18 @@
 ### 1주
 1일 : [swift로 queue 구현하기](https://velog.io/@comdongsam/Swift%EB%A1%9C-%ED%81%90-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)  
 2일 : [swift로 최소힙 구현하기](https://velog.io/@comdongsam/Swift%EB%A1%9C-Heap-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)  
-3일 : [절대값 힙](https://www.acmicpc.net/problem/11286)  
-5일 : [회사에 있는 사람](https://www.acmicpc.net/problem/7785), [베스트 셀러](https://www.acmicpc.net/problem/1302)  
+3일 : 백준 [절대값 힙](https://www.acmicpc.net/problem/11286)  
+5일 : 백준 [회사에 있는 사람](https://www.acmicpc.net/problem/7785), [베스트 셀러](https://www.acmicpc.net/problem/1302)  
 ### 2주
-6일 : [회전하는 큐](https://www.acmicpc.net/problem/1021)  
-7일 : [요세푸스 문제](https://www.acmicpc.net/problem/1158), [풍선 터뜨리기](https://www.acmicpc.net/problem/2346)  
-8일 : [에디터](https://www.acmicpc.net/problem/1406), [빠른 A + B](https://www.acmicpc.net/problem/15552)  
-9일 : [스택 수열](https://www.acmicpc.net/problem/1874)  
-10일 : [듣보잡](https://www.acmicpc.net/problem/1764), [쇠막대기](https://www.acmicpc.net/problem/10799)  
-11일 : [오큰수](https://www.acmicpc.net/problem/17298)  
-12일 : [외계인의 기타 연주](https://www.acmicpc.net/problem/2841).
+6일 : 백준 [회전하는 큐](https://www.acmicpc.net/problem/1021)  
+7일 : 백준 [요세푸스 문제](https://www.acmicpc.net/problem/1158), [풍선 터뜨리기](https://www.acmicpc.net/problem/2346)  
+8일 : 백준 [에디터](https://www.acmicpc.net/problem/1406), [빠른 A + B](https://www.acmicpc.net/problem/15552)  
+9일 : 백준 [스택 수열](https://www.acmicpc.net/problem/1874)  
+10일 : 백준 [듣보잡](https://www.acmicpc.net/problem/1764), [쇠막대기](https://www.acmicpc.net/problem/10799)  
+11일 : 백준 [오큰수](https://www.acmicpc.net/problem/17298)  
+12일 : 백준 [외계인의 기타 연주](https://www.acmicpc.net/problem/2841).
 ### 3주 
-13일 : [프린터 큐](https://www.acmicpc.net/problem/1966). 
-14일 : [연결 요소의 갯수](https://www.acmicpc.net/problem/11724), 
-
-
+13일 : 백준 [프린터 큐](https://www.acmicpc.net/problem/1966). 
+14일 : 백준 [연결 요소의 갯수](https://www.acmicpc.net/problem/11724), [미로 탐색](https://www.acmicpc.net/problem/2178). 
+15일: 백준 [음식물 피하기](https://www.acmicpc.net/problem/1743). 
+16일: 백준 [단지번호붙이기](https://www.acmicpc.net/problem/2667)
