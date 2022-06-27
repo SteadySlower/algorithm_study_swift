@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		063B34A8286921280038534B /* 20220626.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B34A7286921280038534B /* 20220626.swift */; };
 		064A7AD92856B7870044EDEE /* 20220613.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064A7AD82856B7870044EDEE /* 20220613.swift */; };
 		064A7ADB285959650044EDEE /* 20220614.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064A7ADA285959650044EDEE /* 20220614.swift */; };
 		064A7ADD285959710044EDEE /* 20220615.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064A7ADC285959710044EDEE /* 20220615.swift */; };
@@ -73,6 +74,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		063B34A7286921280038534B /* 20220626.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220626.swift; sourceTree = "<group>"; };
 		064A7AD82856B7870044EDEE /* 20220613.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220613.swift; sourceTree = "<group>"; };
 		064A7ADA285959650044EDEE /* 20220614.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220614.swift; sourceTree = "<group>"; };
 		064A7ADC285959710044EDEE /* 20220615.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220615.swift; sourceTree = "<group>"; };
@@ -226,6 +228,7 @@
 				06CEF2342863E11600A620CC /* 20220623.swift */,
 				06CEF23628653B1900A620CC /* 20220624.swift */,
 				06CEF2382866DCF400A620CC /* 20220625.swift */,
+				063B34A7286921280038534B /* 20220626.swift */,
 			);
 			path = "Problem solving";
 			sourceTree = "<group>";
@@ -297,6 +300,7 @@
 				06D0AC082821F6E900189EFC /* 20220504.swift in Sources */,
 				06CEF23728653B1900A620CC /* 20220624.swift in Sources */,
 				06A32A9C283DA85A0044ED0C /* 20220525.swift in Sources */,
+				063B34A8286921280038534B /* 20220626.swift in Sources */,
 				06CEF2392866DCF400A620CC /* 20220625.swift in Sources */,
 				5AB86F9B28331F890053E5D0 /* 20220517.swift in Sources */,
 				06CEF2332862A21600A620CC /* 20220622.swift in Sources */,
