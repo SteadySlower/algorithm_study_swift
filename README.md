@@ -59,3 +59,10 @@
 23일: 백준 [피보나치 수 2](https://www.acmicpc.net/problem/2748), [이항 계수 2](https://www.acmicpc.net/problem/11051). 
 24일: 백준 [2×n 타일링](https://www.acmicpc.net/problem/11726), [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095). 
 25일: 백준 [피보나치 함수](https://www.acmicpc.net/problem/1003), [이친수](https://www.acmicpc.net/problem/2193). 
+### 5주
+27일: 백준 [2 x n 타일링 2](https://www.acmicpc.net/problem/11727), [파도반 수열](https://www.acmicpc.net/problem/9461), [다리 놓기](https://www.acmicpc.net/problem/1010).  
+28일: 백준 [01 타일](https://www.acmicpc.net/problem/1904), [이동하기](https://www.acmicpc.net/problem/11048).  
+29일: 백준 [정수 삼각형](https://www.acmicpc.net/problem/1932).  
+30일: 백준 [동전 1](https://www.acmicpc.net/problem/2293). 
+7월 1일: 백준 [신나는 함수 실행](https://www.acmicpc.net/problem/9184), [방 배정하기](https://www.acmicpc.net/problem/14697), [BABBA](https://www.acmicpc.net/problem/9625). 
+7월 2일: 백준 [Maximum Subarray](https://www.acmicpc.net/problem/10211). 
