@@ -66,3 +66,6 @@
 30일: 백준 [동전 1](https://www.acmicpc.net/problem/2293). 
 7월 1일: 백준 [신나는 함수 실행](https://www.acmicpc.net/problem/9184), [방 배정하기](https://www.acmicpc.net/problem/14697), [BABBA](https://www.acmicpc.net/problem/9625). 
 7월 2일: 백준 [Maximum Subarray](https://www.acmicpc.net/problem/10211). 
+## 7월
+### 1주
+

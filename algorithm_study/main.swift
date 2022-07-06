@@ -12,8 +12,3 @@
  */
 
 
-
-
-func permutation(array: [Int]) -> [[Int]] {
-    
-}
