@@ -46,33 +46,33 @@
 11일: 백준 [오큰수](https://www.acmicpc.net/problem/17298)  
 12일: 백준 [외계인의 기타 연주](https://www.acmicpc.net/problem/2841).
 ### 3주 
-13일: 백준 [프린터 큐](https://www.acmicpc.net/problem/1966). 
-14일: 백준 [연결 요소의 갯수](https://www.acmicpc.net/problem/11724), [미로 탐색](https://www.acmicpc.net/problem/2178). 
-15일: 백준 [음식물 피하기](https://www.acmicpc.net/problem/1743). 
-16일: 백준 [단지번호붙이기](https://www.acmicpc.net/problem/2667). 
-17일: 백준 [적록색약](https://www.acmicpc.net/problem/10026), [탈출](https://www.acmicpc.net/problem/3055).  
-18일: 백준 [토마토](https://www.acmicpc.net/problem/7576).
+13일: 백준 [프린터 큐](https://www.acmicpc.net/problem/1966).  
+14일: 백준 [연결 요소의 갯수](https://www.acmicpc.net/problem/11724), [미로 탐색](https://www.acmicpc.net/problem/2178).  
+15일: 백준 [음식물 피하기](https://www.acmicpc.net/problem/1743)  
+16일: 백준 [단지번호붙이기](https://www.acmicpc.net/problem/2667)  
+17일: 백준 [적록색약](https://www.acmicpc.net/problem/10026), [탈출](https://www.acmicpc.net/problem/3055).   
+18일: 백준 [토마토](https://www.acmicpc.net/problem/7576). 
 ### 4주
-20일: 백준 [나이트의 이동](https://www.acmicpc.net/problem/7562), [숨바꼭질](https://www.acmicpc.net/problem/1697). 
-21일: 백준 [탈출](https://www.acmicpc.net/problem/16397).  
-22일: 백준 [DSLR](https://www.acmicpc.net/problem/9019). 
-23일: 백준 [피보나치 수 2](https://www.acmicpc.net/problem/2748), [이항 계수 2](https://www.acmicpc.net/problem/11051). 
-24일: 백준 [2×n 타일링](https://www.acmicpc.net/problem/11726), [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095). 
+20일: 백준 [나이트의 이동](https://www.acmicpc.net/problem/7562), [숨바꼭질](https://www.acmicpc.net/problem/1697)  
+21일: 백준 [탈출](https://www.acmicpc.net/problem/16397)  
+22일: 백준 [DSLR](https://www.acmicpc.net/problem/9019)   
+23일: 백준 [피보나치 수 2](https://www.acmicpc.net/problem/2748), [이항 계수 2](https://www.acmicpc.net/problem/11051)  
+24일: 백준 [2×n 타일링](https://www.acmicpc.net/problem/11726), [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)  
 25일: 백준 [피보나치 함수](https://www.acmicpc.net/problem/1003), [이친수](https://www.acmicpc.net/problem/2193). 
 ### 5주
 27일: 백준 [2 x n 타일링 2](https://www.acmicpc.net/problem/11727), [파도반 수열](https://www.acmicpc.net/problem/9461), [다리 놓기](https://www.acmicpc.net/problem/1010).  
 28일: 백준 [01 타일](https://www.acmicpc.net/problem/1904), [이동하기](https://www.acmicpc.net/problem/11048).  
 29일: 백준 [정수 삼각형](https://www.acmicpc.net/problem/1932).  
-30일: 백준 [동전 1](https://www.acmicpc.net/problem/2293). 
-7월 1일: 백준 [신나는 함수 실행](https://www.acmicpc.net/problem/9184), [방 배정하기](https://www.acmicpc.net/problem/14697), [BABBA](https://www.acmicpc.net/problem/9625). 
+30일: 백준 [동전 1](https://www.acmicpc.net/problem/2293)  
+7월 1일: 백준 [신나는 함수 실행](https://www.acmicpc.net/problem/9184), [방 배정하기](https://www.acmicpc.net/problem/14697), [BABBA](https://www.acmicpc.net/problem/9625)  
 7월 2일: 백준 [Maximum Subarray](https://www.acmicpc.net/problem/10211). 
 ## 7월
 ### 1주
-4일: 백준 [탑](https://www.acmicpc.net/problem/2493). 
-5일: 백준 [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389). 
-6일: 백준 [연산자 끼워 넣기](https://www.acmicpc.net/problem/14888), [예산](https://www.acmicpc.net/problem/2512). 
-7일: 백준 [숫자 카드](https://www.acmicpc.net/problem/10815). 
-8일: 백준 [행운의 바퀴](https://www.acmicpc.net/problem/2840). 
+4일: 백준 [탑](https://www.acmicpc.net/problem/2493)  
+5일: 백준 [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)  
+6일: 백준 [연산자 끼워 넣기](https://www.acmicpc.net/problem/14888), [예산](https://www.acmicpc.net/problem/2512)  
+7일: 백준 [숫자 카드](https://www.acmicpc.net/problem/10815)  
+8일: 백준 [행운의 바퀴](https://www.acmicpc.net/problem/2840)  
 9일: 백준 [리모컨](https://www.acmicpc.net/problem/1107). 
 
 
