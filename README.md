@@ -68,4 +68,11 @@
 7월 2일: 백준 [Maximum Subarray](https://www.acmicpc.net/problem/10211). 
 ## 7월
 ### 1주
+4일: 백준 [탑](https://www.acmicpc.net/problem/2493). 
+5일: 백준 [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389). 
+6일: 백준 [연산자 끼워 넣기](https://www.acmicpc.net/problem/14888), [예산](https://www.acmicpc.net/problem/2512). 
+7일: 백준 [숫자 카드](https://www.acmicpc.net/problem/10815). 
+8일: 백준 [행운의 바퀴](https://www.acmicpc.net/problem/2840). 
+9일: 백준 [리모컨](https://www.acmicpc.net/problem/1107). 
+
 
