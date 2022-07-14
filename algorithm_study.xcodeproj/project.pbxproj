@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0607470F287F990F008FEB25 /* 20220714.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0607470E287F990F008FEB25 /* 20220714.swift */; };
 		063B34A8286921280038534B /* 20220627.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B34A7286921280038534B /* 20220627.swift */; };
 		063B34AA286A7B6B0038534B /* 20220628.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B34A9286A7B6B0038534B /* 20220628.swift */; };
 		063B34AC286BEBE80038534B /* 20220629.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B34AB286BEBE80038534B /* 20220629.swift */; };
@@ -88,6 +89,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0607470E287F990F008FEB25 /* 20220714.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220714.swift; sourceTree = "<group>"; };
 		063B34A7286921280038534B /* 20220627.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220627.swift; sourceTree = "<group>"; };
 		063B34A9286A7B6B0038534B /* 20220628.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220628.swift; sourceTree = "<group>"; };
 		063B34AB286BEBE80038534B /* 20220629.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220629.swift; sourceTree = "<group>"; };
@@ -279,6 +281,7 @@
 				065A4125287B98F6004E85F9 /* 20220711.swift */,
 				065A4127287CF3B2004E85F9 /* 20220712.swift */,
 				06E45F1C287E425100F7D05A /* 20220713.swift */,
+				0607470E287F990F008FEB25 /* 20220714.swift */,
 			);
 			path = "Problem solving";
 			sourceTree = "<group>";
@@ -345,6 +348,7 @@
 				06CEF22B285BF71800A620CC /* 20220617.swift in Sources */,
 				5AAD6EEA282C91320000AF05 /* 20220512.swift in Sources */,
 				0685CF60284DD543002F770D /* 20220606.swift in Sources */,
+				0607470F287F990F008FEB25 /* 20220714.swift in Sources */,
 				5A063C96282495470045EC3F /* 20220506.swift in Sources */,
 				5ABD62E32829E9E70021BF3E /* 20220510.swift in Sources */,
 				06D0AC082821F6E900189EFC /* 20220504.swift in Sources */,
