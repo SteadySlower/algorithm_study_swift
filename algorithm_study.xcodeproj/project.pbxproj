@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0607470F287F990F008FEB25 /* 20220714.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0607470E287F990F008FEB25 /* 20220714.swift */; };
+		060747112880EB28008FEB25 /* 20220715.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060747102880EB28008FEB25 /* 20220715.swift */; };
 		063B34A8286921280038534B /* 20220627.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B34A7286921280038534B /* 20220627.swift */; };
 		063B34AA286A7B6B0038534B /* 20220628.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B34A9286A7B6B0038534B /* 20220628.swift */; };
 		063B34AC286BEBE80038534B /* 20220629.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B34AB286BEBE80038534B /* 20220629.swift */; };
@@ -90,6 +91,7 @@
 
 /* Begin PBXFileReference section */
 		0607470E287F990F008FEB25 /* 20220714.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220714.swift; sourceTree = "<group>"; };
+		060747102880EB28008FEB25 /* 20220715.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220715.swift; sourceTree = "<group>"; };
 		063B34A7286921280038534B /* 20220627.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220627.swift; sourceTree = "<group>"; };
 		063B34A9286A7B6B0038534B /* 20220628.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220628.swift; sourceTree = "<group>"; };
 		063B34AB286BEBE80038534B /* 20220629.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220629.swift; sourceTree = "<group>"; };
@@ -282,6 +284,7 @@
 				065A4127287CF3B2004E85F9 /* 20220712.swift */,
 				06E45F1C287E425100F7D05A /* 20220713.swift */,
 				0607470E287F990F008FEB25 /* 20220714.swift */,
+				060747102880EB28008FEB25 /* 20220715.swift */,
 			);
 			path = "Problem solving";
 			sourceTree = "<group>";
@@ -344,6 +347,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				060747112880EB28008FEB25 /* 20220715.swift in Sources */,
 				5AB24273283C4D1200DDB88A /* 20220524.swift in Sources */,
 				06CEF22B285BF71800A620CC /* 20220617.swift in Sources */,
 				5AAD6EEA282C91320000AF05 /* 20220512.swift in Sources */,
