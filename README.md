@@ -75,10 +75,10 @@
 8일: 백준 [행운의 바퀴](https://www.acmicpc.net/problem/2840)  
 9일: 백준 [리모컨](https://www.acmicpc.net/problem/1107). 
 ### 2주
-11일: [리모컨](https://www.acmicpc.net/problem/1107)   
-12일: [등수 구하기](https://www.acmicpc.net/problem/1205), [KMP는 왜 KMP일까?](https://www.acmicpc.net/problem/2902), [보물](https://www.acmicpc.net/problem/1026)  
-13일: [비슷한 단어](https://www.acmicpc.net/problem/2607)  
-14일: [2차원 배열의 합](https://www.acmicpc.net/problem/2167)  
-15일: [음계](https://www.acmicpc.net/problem/2920), [퇴사](https://www.acmicpc.net/problem/14501)  
-16일: [초콜릿 자르기](https://www.acmicpc.net/problem/2163)  
+11일: 백준 [리모컨](https://www.acmicpc.net/problem/1107)   
+12일: 백준 [등수 구하기](https://www.acmicpc.net/problem/1205), [KMP는 왜 KMP일까?](https://www.acmicpc.net/problem/2902), [보물](https://www.acmicpc.net/problem/1026)  
+13일: 백준 [비슷한 단어](https://www.acmicpc.net/problem/2607)  
+14일: 백준 [2차원 배열의 합](https://www.acmicpc.net/problem/2167)  
+15일: 백준 [음계](https://www.acmicpc.net/problem/2920), [퇴사](https://www.acmicpc.net/problem/14501)  
+16일: 백준 [초콜릿 자르기](https://www.acmicpc.net/problem/2163)
 
