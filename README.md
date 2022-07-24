@@ -81,4 +81,8 @@
 14일: 백준 [2차원 배열의 합](https://www.acmicpc.net/problem/2167)  
 15일: 백준 [음계](https://www.acmicpc.net/problem/2920), [퇴사](https://www.acmicpc.net/problem/14501)  
 16일: 백준 [초콜릿 자르기](https://www.acmicpc.net/problem/2163)
-
+### 3주
+17일: 백준 [크로스 워드 만들기](https://www.acmicpc.net/problem/2804)    
+18일: 백준 [토너먼트](https://www.acmicpc.net/problem/1057)  
+20일: 백준 [수열정렬](https://www.acmicpc.net/problem/1015)  
+23일: 백준 [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)  
