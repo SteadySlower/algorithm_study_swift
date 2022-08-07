@@ -93,3 +93,11 @@
 28일: [균형잡힌 세상](https://www.acmicpc.net/problem/4949), [색종이](https://www.acmicpc.net/problem/2563)  
 29일: [괄호의 값](https://www.acmicpc.net/problem/2504), [팰린드롬 만들기](https://www.acmicpc.net/problem/1213)  
 30일: [제로](https://www.acmicpc.net/problem/10773), [시험 감독](https://www.acmicpc.net/problem/13458), [도키도키 간식 드리미](https://www.acmicpc.net/problem/12789)  
+## 8월
+### 1주
+1일: [직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669), [로또](https://www.acmicpc.net/problem/6603), [외판원 순회 2](https://www.acmicpc.net/problem/10971)  
+2일: [킹](https://www.acmicpc.net/problem/1063)  
+3일: [행렬](https://www.acmicpc.net/problem/1080)  
+4일: [병든 나이트](https://www.acmicpc.net/problem/1783), [경로 찾기](https://www.acmicpc.net/problem/11403)  
+5일: [우리집엔 도서관이 있어](https://www.acmicpc.net/problem/2872)  
+6일: [용돈 관리](https://www.acmicpc.net/problem/6236)  
