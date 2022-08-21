@@ -107,3 +107,11 @@
 10일: 백준 [N과 M (2)](https://www.acmicpc.net/problem/15650)   
 11일: 백준 [N과 M (3)](https://www.acmicpc.net/problem/15651)  
 12일: 백준 [N과 M (4)](https://www.acmicpc.net/problem/15652), [N과 M (5)](https://www.acmicpc.net/problem/15654), [N과 M (6)](https://www.acmicpc.net/problem/15655)  
+### 3주
+15일 : 백준 [N과 M (7)](https://www.acmicpc.net/problem/15656), [N과 M (8)](https://www.acmicpc.net/problem/15657)  
+16일 : 백준 [N과 M (9)](https://www.acmicpc.net/problem/15663), [N과 M (10)](https://www.acmicpc.net/problem/15664), [N과 M (11)](https://www.acmicpc.net/problem/15665), [N과 M (12)](https://www.acmicpc.net/problem/15666)  
+17일 : Programmers [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491), [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862#)  
+18일 : Programmers [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748), [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909), [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578?language=swift)  
+19일 : Programmers [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165?language=swift), [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=swift)  
+20일: Programmers [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586?language=swift)
+
