@@ -47,6 +47,7 @@
 		0685CF6A28546B5F002F770D /* 20220611.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0685CF6928546B5F002F770D /* 20220611.swift */; };
 		0685CF6D28559BC6002F770D /* 20220612.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0685CF6C28559BC6002F770D /* 20220612.swift */; };
 		068D4CFE28B3B6C400F44F6E /* 20220822.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068D4CFD28B3B6C400F44F6E /* 20220822.swift */; };
+		068D4D0028B50D6D00F44F6E /* 20220823.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068D4CFF28B50D6D00F44F6E /* 20220823.swift */; };
 		06A32A9C283DA85A0044ED0C /* 20220525.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A32A9B283DA85A0044ED0C /* 20220525.swift */; };
 		06A32A9E283EFE390044ED0C /* 20220526.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A32A9D283EFE390044ED0C /* 20220526.swift */; };
 		06A32AA02841A3F10044ED0C /* 20220527.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A32A9F2841A3F10044ED0C /* 20220527.swift */; };
@@ -160,6 +161,7 @@
 		0685CF6B28558885002F770D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		0685CF6C28559BC6002F770D /* 20220612.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220612.swift; sourceTree = "<group>"; };
 		068D4CFD28B3B6C400F44F6E /* 20220822.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220822.swift; sourceTree = "<group>"; };
+		068D4CFF28B50D6D00F44F6E /* 20220823.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220823.swift; sourceTree = "<group>"; };
 		06A32A9B283DA85A0044ED0C /* 20220525.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220525.swift; sourceTree = "<group>"; };
 		06A32A9D283EFE390044ED0C /* 20220526.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220526.swift; sourceTree = "<group>"; };
 		06A32A9F2841A3F10044ED0C /* 20220527.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220527.swift; sourceTree = "<group>"; };
@@ -380,6 +382,7 @@
 				06C857A128AFD3F4003E7A22 /* 20220819.swift */,
 				06C857A328B12ABD003E7A22 /* 20220820.swift */,
 				068D4CFD28B3B6C400F44F6E /* 20220822.swift */,
+				068D4CFF28B50D6D00F44F6E /* 20220823.swift */,
 			);
 			path = "Problem solving";
 			sourceTree = "<group>";
@@ -448,6 +451,7 @@
 				060747172883C08A008FEB25 /* 20220719.swift in Sources */,
 				5AAD6EEA282C91320000AF05 /* 20220512.swift in Sources */,
 				0685CF60284DD543002F770D /* 20220606.swift in Sources */,
+				068D4D0028B50D6D00F44F6E /* 20220823.swift in Sources */,
 				0607470F287F990F008FEB25 /* 20220714.swift in Sources */,
 				5A063C96282495470045EC3F /* 20220506.swift in Sources */,
 				5ABD62E32829E9E70021BF3E /* 20220510.swift in Sources */,
