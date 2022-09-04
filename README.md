@@ -122,4 +122,13 @@
 25일: Programmers [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=swift), [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=swift)  
 26일: Programmers [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895?language=swift)  
 27일: Programmers [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746?language=swift)  
+## 9월
+### 1주
+29일: [베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579?language=swift), [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839?language=swift)  
+30일: [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842?language=swift), [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=swift), [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971?language=swift)  
+31일: [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587?language=swift)  
+1일: [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883?language=swift)  
+2일: [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747?language=swift), [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583?language=swift)  
+3일: [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512?language=swift)  
+
 
