@@ -56,6 +56,7 @@
 		0687363228C3435E007A0780 /* 20220903.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0687363128C3435E007A0780 /* 20220903.swift */; };
 		0687363428C637DE007A0780 /* 20220905.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0687363328C637DE007A0780 /* 20220905.swift */; };
 		0687363628C787F0007A0780 /* 20220906.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0687363528C787F0007A0780 /* 20220906.swift */; };
+		0687363828C8DE84007A0780 /* 20220907.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0687363728C8DE84007A0780 /* 20220907.swift */; };
 		068D4CFE28B3B6C400F44F6E /* 20220822.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068D4CFD28B3B6C400F44F6E /* 20220822.swift */; };
 		068D4D0028B50D6D00F44F6E /* 20220823.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068D4CFF28B50D6D00F44F6E /* 20220823.swift */; };
 		068D4D0228B667BD00F44F6E /* 20220824.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068D4D0128B667BD00F44F6E /* 20220824.swift */; };
@@ -182,6 +183,7 @@
 		0687363128C3435E007A0780 /* 20220903.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220903.swift; sourceTree = "<group>"; };
 		0687363328C637DE007A0780 /* 20220905.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220905.swift; sourceTree = "<group>"; };
 		0687363528C787F0007A0780 /* 20220906.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220906.swift; sourceTree = "<group>"; };
+		0687363728C8DE84007A0780 /* 20220907.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220907.swift; sourceTree = "<group>"; };
 		068D4CFD28B3B6C400F44F6E /* 20220822.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220822.swift; sourceTree = "<group>"; };
 		068D4CFF28B50D6D00F44F6E /* 20220823.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220823.swift; sourceTree = "<group>"; };
 		068D4D0128B667BD00F44F6E /* 20220824.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220824.swift; sourceTree = "<group>"; };
@@ -365,6 +367,7 @@
 				0687363128C3435E007A0780 /* 20220903.swift */,
 				0687363328C637DE007A0780 /* 20220905.swift */,
 				0687363528C787F0007A0780 /* 20220906.swift */,
+				0687363728C8DE84007A0780 /* 20220907.swift */,
 			);
 			path = 202209;
 			sourceTree = "<group>";
@@ -515,6 +518,7 @@
 				0607471B288AEE09008FEB25 /* 20220722.swift in Sources */,
 				06A32A9C283DA85A0044ED0C /* 20220525.swift in Sources */,
 				063B34A8286921280038534B /* 20220627.swift in Sources */,
+				0687363828C8DE84007A0780 /* 20220907.swift in Sources */,
 				060F07D92892D44800BE4457 /* 20220728.swift in Sources */,
 				068D4D0228B667BD00F44F6E /* 20220824.swift in Sources */,
 				0687363428C637DE007A0780 /* 20220905.swift in Sources */,
