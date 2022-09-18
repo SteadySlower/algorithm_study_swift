@@ -130,5 +130,12 @@
 1일: [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883?language=swift)  
 2일: [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747?language=swift), [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583?language=swift)  
 3일: [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512?language=swift)  
-
-
+### 2주
+5일: [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164?language=swift)  
+6일: [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861?language=swift)  
+7일: [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843?language=swift)  
+8일: [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021?language=swift)  
+### 3주
+13일: [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)  
+14일: [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)  
+15일: [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191?language=swift)  
