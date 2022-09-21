@@ -17,7 +17,7 @@
 //    mutating func push(_ t: Int) {
 //        queue.append(t)
 //    }
-//
+
 //    mutating func pop() -> Int {
 //        defer {
 //            index += 1
