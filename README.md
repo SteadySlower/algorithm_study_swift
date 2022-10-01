@@ -145,3 +145,10 @@
 21일: [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951), [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)  
 22일: [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)  
 23일: [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)  
+### 5주
+25일: [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)  
+26일: [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)  
+27일: [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941), [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)  
+28일: [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)  
+29일: [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981), [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)  
+30일: [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)  
