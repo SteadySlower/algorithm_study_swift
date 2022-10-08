@@ -152,3 +152,8 @@
 28일: [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)  
 29일: [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981), [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)  
 30일: [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)  
+## 10월
+### 1주
+3일: [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)  
+4일: [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)  
+7일: [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985), [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
