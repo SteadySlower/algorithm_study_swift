@@ -33,6 +33,7 @@
 		063B34AC286BEBE80038534B /* 20220629.swift in Sources */ = {isa = PBXBuildFile; fileRef = 063B34AB286BEBE80038534B /* 20220629.swift */; };
 		0647BF8E28F062B600CD57F9 /* 20221007.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0647BF8D28F062B600CD57F9 /* 20221007.swift */; };
 		0647BF9228F5AA0500CD57F9 /* 20221011.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0647BF9128F5AA0500CD57F9 /* 20221011.swift */; };
+		0647BF9428F700C700CD57F9 /* 20221012.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0647BF9328F700C700CD57F9 /* 20221012.swift */; };
 		064A7AD92856B7870044EDEE /* 20220613.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064A7AD82856B7870044EDEE /* 20220613.swift */; };
 		064A7ADB285959650044EDEE /* 20220614.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064A7ADA285959650044EDEE /* 20220614.swift */; };
 		064A7ADD285959710044EDEE /* 20220615.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064A7ADC285959710044EDEE /* 20220615.swift */; };
@@ -175,6 +176,7 @@
 		063B34AB286BEBE80038534B /* 20220629.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220629.swift; sourceTree = "<group>"; };
 		0647BF8D28F062B600CD57F9 /* 20221007.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20221007.swift; sourceTree = "<group>"; };
 		0647BF9128F5AA0500CD57F9 /* 20221011.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20221011.swift; sourceTree = "<group>"; };
+		0647BF9328F700C700CD57F9 /* 20221012.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20221012.swift; sourceTree = "<group>"; };
 		064A7AD82856B7870044EDEE /* 20220613.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220613.swift; sourceTree = "<group>"; };
 		064A7ADA285959650044EDEE /* 20220614.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220614.swift; sourceTree = "<group>"; };
 		064A7ADC285959710044EDEE /* 20220615.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20220615.swift; sourceTree = "<group>"; };
@@ -454,6 +456,7 @@
 				06CB256C28EC570800A7FC76 /* 20221004.swift */,
 				0647BF8D28F062B600CD57F9 /* 20221007.swift */,
 				0647BF9128F5AA0500CD57F9 /* 20221011.swift */,
+				0647BF9328F700C700CD57F9 /* 20221012.swift */,
 			);
 			path = 202210;
 			sourceTree = "<group>";
@@ -614,6 +617,7 @@
 				06CB256228E3309300A7FC76 /* 20220927.swift in Sources */,
 				0607471928863CE9008FEB25 /* 20220720.swift in Sources */,
 				065A4124287A6F0F004E85F9 /* 20220709.swift in Sources */,
+				0647BF9428F700C700CD57F9 /* 20221012.swift in Sources */,
 				065A41202877A309004E85F9 /* 20220708.swift in Sources */,
 				064A7ADF285AB9B90044EDEE /* 20220616.swift in Sources */,
 				06A32AA628443BC20044ED0C /* 20220530.swift in Sources */,
