@@ -156,4 +156,26 @@
 ### 1주
 3일: [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)  
 4일: [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)  
-7일: [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985), [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
+7일: [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985), [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)  
+### 2주
+11일: [점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)  
+12일: [여행 계획](https://play.google.com/books/reader?id=vBz-DwAAQBAJ&pg=GBS.PA393&hl=ko&num=19&printsec=frontcover), [탑승구](https://play.google.com/books/reader?id=vBz-DwAAQBAJ&pg=GBS.PA395&hl=ko&num=19&printsec=frontcover)  
+13일: [어두운 길](https://play.google.com/books/reader?id=vBz-DwAAQBAJ&pg=GBS.PA397&hl=ko&num=19&printsec=frontcover)  
+### 3주
+### 4주
+24일: [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)  
+25일: [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)  
+26일: [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)  
+27일: [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949), [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)  
+28일: [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)  
+## 11월
+### 1주
+31일: [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)  
+1일: [뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)  
+2일: [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)  
+3일: [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)   
+4일: [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)  
+### 2주
+8일: [n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)  
+9일: [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)  
+11일: [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
