@@ -179,3 +179,6 @@
 8일: [n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)  
 9일: [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)  
 11일: [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
+### 3주
+[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701).   
+[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987). 
