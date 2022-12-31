@@ -186,3 +186,11 @@
 [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127). 
 [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476).
 [쿼드 압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936).
+## 12월
+### 1주
+[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)  
+### 2주
+[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)  
+[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
+### 4주
+[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411?language=swift)  
